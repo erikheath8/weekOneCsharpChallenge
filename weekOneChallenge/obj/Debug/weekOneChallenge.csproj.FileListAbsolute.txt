@@ -1,0 +1,14 @@
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\obj\Debug\weekOneChallenge.csprojAssemblyReference.cache
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\obj\Debug\weekOneChallenge.csproj.CoreCompileInputs.cache
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\bin\Debug\weekOneChallenge.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\bin\Debug\weekOneChallenge.pdb
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\obj\Debug\weekOneChallenge.csproj.CopyComplete
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\obj\Debug\weekOneChallenge.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekOneChallenge\weekOneChallenge\weekOneChallenge\obj\Debug\weekOneChallenge.pdb
